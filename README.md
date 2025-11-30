@@ -1,5 +1,5 @@
 # Hospital-ER-management-system
-🏥 A simple Hospital Management System made in C
+🏥 A console-based Hospital Management System made in C
 
 👨‍⚕️ Doctors can sign up, log in, and the admin can manage them (add, search, edit, delete)
 
